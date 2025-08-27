@@ -25,5 +25,6 @@ Here is a quick look at the project in action:
 ![Cryptoverse Demo](assets/demo.gif)
 
 
-https://github.com/user-attachments/assets/f85d2788-4203-4a0b-8683-5f487141fc92
 
+
+![Enregistrement15-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c533c225-626e-4dfc-b808-5765b3b68865)

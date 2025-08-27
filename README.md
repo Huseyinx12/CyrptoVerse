@@ -23,3 +23,7 @@ A simple and responsive web project showcasing a modern design for a cryptocurre
 Here is a quick look at the project in action:  
 
 ![Cryptoverse Demo](assets/demo.gif)
+
+
+https://github.com/user-attachments/assets/f85d2788-4203-4a0b-8683-5f487141fc92
+
